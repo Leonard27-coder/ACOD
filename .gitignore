@@ -1,0 +1,21 @@
+﻿# Android Studio
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+**/build/
+
+# Kotlin
+.kotlin/
+
+# Local Android SDK configuration
+local.properties
+
+# Java crash reports
+hs_err_pid*.log
+replay_pid*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
